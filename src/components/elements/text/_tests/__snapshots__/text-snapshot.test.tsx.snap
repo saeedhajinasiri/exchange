@@ -1,0 +1,251 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Text Aligns align="center 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-center font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Aligns align="justify 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-justify font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Aligns align="left 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-left font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Aligns align="right 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-right font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Colors color=dark 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-grey-dark text-left font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Colors color=grey 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Colors color=light 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-grey-light text-left font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Colors color=primary 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-left font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Colors color=secondary 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-secondary text-left font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Colors color=tertiary 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-tertiary text-left font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Disabled disabled=false 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-left font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Disabled disabled=true 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Types type=bold 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-left font-bold"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Types type=light 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-left font-light"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Types type=medium 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-left font-medium"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Types type=regular 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-left font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Typographies typography=base 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-base sm:text-t-base md:text-d-base text-primary text-left font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Typographies typography=lg 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-lg sm:text-t-lg md:text-d-lg text-primary text-left font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Typographies typography=sm 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-left font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text UI Default 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-left font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text UI Test with className prop 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-left font-regular test-class-name"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text UI Test with style prop 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-left font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Variants variant=h1 1`] = `
+<DocumentFragment>
+  <h1
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-left font-regular"
+  >
+    children
+  </h1>
+</DocumentFragment>
+`;
+
+exports[`Test Text Variants variant=p 1`] = `
+<DocumentFragment>
+  <p
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-left font-regular"
+  >
+    children
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Test Text Variants variant=span 1`] = `
+<DocumentFragment>
+  <span
+    class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-left font-regular"
+  >
+    children
+  </span>
+</DocumentFragment>
+`;

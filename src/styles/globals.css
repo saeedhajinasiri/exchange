@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+* {
+  box-sizing: border-box;
+  font-family: Roboto, Calibri, SansSerif, Arial, serif;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Roboto, Helvetica, Calibri, SansSerif, Arial, serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+input:focus, textarea:focus, select:focus {
+  outline: none;
+}
+
+textarea {
+  resize: none;
+}

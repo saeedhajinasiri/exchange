@@ -1,0 +1,278 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Button Colors color=dark 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-grey-dark border-grey text-grey hover:opacity-70 active:bg-grey-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Colors color=grey 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-grey border-grey text-grey hover:opacity-70 active:bg-grey-dark active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Colors color=light 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-white border-grey text-grey hover:opacity-70 active:bg-grey-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Colors color=primary 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Colors color=secondary 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-secondary border-secondary text-secondary hover:opacity-70 active:bg-secondary-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Colors color=tertiary 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-tertiary border-tertiary text-tertiary hover:opacity-70 active:bg-tertiary-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Disabled disabled=false 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Disabled disabled=true 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out h-12 text-white text-m-sm md:text-d-sm border-none bg-grey-light rounded-md px-8"
+    data-testid="button-test-id"
+    disabled=""
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Loading loading=false 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Loading loading=true 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    <svg
+      class="animate-spin h-5 w-5 text-white"
+      fill="none"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <circle
+        class="opacity-25"
+        cx="12"
+        cy="12"
+        r="10"
+        stroke="grey"
+        stroke-width="4"
+      />
+      <path
+        class="opacity-75"
+        d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
+        fill="currentColor"
+      />
+    </svg>
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Shapes shape=circle 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md max-w-[48px] min-w-[48px] w-12 px-0rounded-full"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Shapes shape=circle 2`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md max-w-[48px] min-w-[48px] w-12 px-0rounded-full"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Shapes shape=rectangle 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Shapes shape=square 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md max-w-[48px] min-w-[48px] w-12 px-0"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Sizes size=large 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-14 text-white text-m-sm border-none md:text-d-sm rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Sizes size=medium 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Sizes size=small 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-9 text-white text-m-sm border-none md:text-d-sm rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button UI Default 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button UI Test with children prop 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    <p
+      class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-left font-regular"
+    >
+      children
+    </p>
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button UI Test with className prop 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md px-8 test-class-name"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Variants variant=contained 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-12 text-white text-m-sm border-none md:text-d-sm rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Variants variant=outlined 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-12 border bg-transparent rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Test Button Variants variant=text 1`] = `
+<DocumentFragment>
+  <button
+    class="flex items-center justify-center hover:transition hover:duration-150 hover:ease-in-out bg-primary border-primary text-primary hover:opacity-70 active:bg-primary-light active:text-white h-12 bg-transparent border-none rounded-md px-8"
+    data-testid="button-test-id"
+  >
+    children
+  </button>
+</DocumentFragment>
+`;

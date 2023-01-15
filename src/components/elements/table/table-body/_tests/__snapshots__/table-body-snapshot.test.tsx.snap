@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test TableBody Colors color=dark 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+      color="dark"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-primary border-primary"
+      />
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableBody Colors color=grey 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+      color="grey"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-primary border-primary"
+      />
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableBody Colors color=light 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+      color="light"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-primary border-primary"
+      />
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableBody Colors color=primary 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+      color="primary"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-primary border-primary"
+      />
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableBody Colors color=secondary 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+      color="secondary"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-primary border-primary"
+      />
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableBody Colors color=tertiary 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+      color="tertiary"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-primary border-primary"
+      />
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableBody UI Default 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+    />
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableBody UI Test with children prop 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-white border-grey-light"
+      />
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableBody UI Test with className prop 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group test-class-name"
+    />
+  </table>
+</DocumentFragment>
+`;

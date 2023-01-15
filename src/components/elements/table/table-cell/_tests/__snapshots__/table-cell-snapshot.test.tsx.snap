@@ -1,0 +1,236 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test TableCell Colspan colspan=2 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-white border-grey-light"
+      >
+        <td
+          class="px-4 bg-opacity-20 min-w-[125px] h-10"
+          colspan="2"
+        >
+          <p
+            class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+          >
+            children
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableCell Sizes size=large 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-white border-grey-light"
+      >
+        <td
+          class="px-4 bg-opacity-20 min-w-[125px] h-20"
+        >
+          <p
+            class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+          >
+            children
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableCell Sizes size=medium 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-white border-grey-light"
+      >
+        <td
+          class="px-4 bg-opacity-20 min-w-[125px] h-15"
+        >
+          <p
+            class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+          >
+            children
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableCell Sizes size=small 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-white border-grey-light"
+      >
+        <td
+          class="px-4 bg-opacity-20 min-w-[125px] h-10"
+        >
+          <p
+            class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+          >
+            children
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableCell UI Default 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-white border-grey-light"
+      >
+        <td
+          class="px-4 bg-opacity-20 min-w-[125px] h-10"
+        >
+          <p
+            class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+          >
+            children
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableCell UI Test with children prop 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-white border-grey-light"
+      >
+        <td
+          class="px-4 bg-opacity-20 min-w-[125px] h-10"
+        >
+          <p
+            class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+          >
+            children
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableCell Variants variant="body 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-white border-grey-light"
+      >
+        <td
+          class="px-4 bg-opacity-20 min-w-[125px] h-10"
+        >
+          <p
+            class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+          >
+            children
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableCell Variants variant="footer 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-white border-grey-light"
+      >
+        <td
+          class="px-4 bg-opacity-20 min-w-[125px] h-10"
+        >
+          <p
+            class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+          >
+            children
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableCell Variants variant="head 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <tbody
+      class="table-row-group"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-white border-grey-light"
+      >
+        <th
+          class="px-4 bg-opacity-20 min-w-[125px] h-10"
+        >
+          <p
+            class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+          >
+            children
+          </p>
+        </th>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;

@@ -1,0 +1,255 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test TextField Colors color=grey 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] undefined"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 bg-grey border-grey bg-transparent border-x-none border-t-none !focus:border-x-none !border-b !rounded-none"
+      type="text"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test TextField Colors color=primary 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] undefined"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 bg-primary border-primary  bg-transparent border-x-none border-t-none !focus:border-x-none !border-b !rounded-none"
+      type="text"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test TextField Colors color=secondary 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] undefined"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 bg-secondary border-secondary bg-transparent border-x-none border-t-none !focus:border-x-none !border-b !rounded-none"
+      type="text"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test TextField Colors color=tertiary 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] undefined"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 bg-tertiary border-tertiary bg-transparent border-x-none border-t-none !focus:border-x-none !border-b !rounded-none"
+      type="text"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test TextField Disabled disabled=false 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] undefined"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 bg-primary border-primary  bg-transparent border-x-none border-t-none !focus:border-x-none !border-b !rounded-none"
+      type="text"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test TextField Disabled disabled=true 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] undefined"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 border-grey bg-transparent border-x-none border-t-none !focus:border-x-none !border-b !rounded-none"
+      disabled=""
+      type="text"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test TextField Error error=false 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] undefined"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 bg-primary border-primary  bg-transparent border-x-none border-t-none !focus:border-x-none !border-b !rounded-none"
+      type="text"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test TextField Error error=true 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] undefined"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 border-tertiary bg-transparent border-x-none border-t-none !focus:border-x-none !border-b !rounded-none"
+      type="text"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test TextField Error error=true,errorMessage=sometext 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] undefined"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 bg-primary border-primary  bg-transparent border-x-none border-t-none !focus:border-x-none !border-b !rounded-none"
+      type="text"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test TextField Input Modes type=number 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] undefined"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 bg-primary border-primary  bg-transparent border-x-none border-t-none !focus:border-x-none !border-b !rounded-none"
+      type="number"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test TextField Input Modes type=text 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] undefined"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 bg-primary border-primary  bg-transparent border-x-none border-t-none !focus:border-x-none !border-b !rounded-none"
+      type="text"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test TextField UI Default 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] undefined"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 bg-primary border-primary  bg-transparent border-x-none border-t-none !focus:border-x-none !border-b !rounded-none"
+      type="text"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test TextField UI Test with className prop 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] test-class-name"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 bg-primary border-primary  bg-transparent border-x-none border-t-none !focus:border-x-none !border-b !rounded-none"
+      type="text"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test TextField UI Test with label prop 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] undefined"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 bg-primary border-primary  bg-transparent border-x-none border-t-none !focus:border-x-none !border-b !rounded-none"
+      placeholder=" "
+      type="text"
+      value=""
+    />
+    <label
+      class="flex z-[1] w-full select-none absolute text-grey
+          leading-tight peer-focus:leading-tight peer-placeholder-shown:leading-[4]
+          peer-disabled:text-transparent peer-disabled:peer-placeholder-shown:text-danger 
+          peer-disabled:before:border-transparent peer-disabled:after:border-transparent
+          transition-all top-0 peer-focus:translate-y-[-50%] text-m-sm before:w-3
+          before:translate-y-[50%] after:translate-y-[50%]
+          before:mr-1 after:ml-1
+          peer-placeholder-shown:before:border-transparent peer-placeholder-shown:after:border-transparent
+            !before:peer-focus:border-t-0 !after:peer-focus:border-t-0  before:peer-focus:border-primary after:peer-focus:border-primary"
+    >
+      test-label
+    </label>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test TextField UI Test with placeholder prop 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] undefined"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 bg-primary border-primary  bg-transparent border-x-none border-t-none !focus:border-x-none !border-b !rounded-none"
+      placeholder="test-placeholder"
+      type="text"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test TextField Variants variants="outlined 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] undefined"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 bg-primary border-primary  bg-transparent border hover:bg-transparent focus:border-2 rounded"
+      type="text"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test TextField Variants variants="standard 1`] = `
+<DocumentFragment>
+  <div
+    class="relative min-w-[200px] undefined"
+  >
+    <input
+      class="relative z-[2] peer w-full h-full transition-all px-3 py-2.5 focus:border-t-transparent h-10 sm:h-12 bg-primary border-primary  bg-transparent border-x-none border-t-none !focus:border-x-none !border-b !rounded-none"
+      type="text"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;

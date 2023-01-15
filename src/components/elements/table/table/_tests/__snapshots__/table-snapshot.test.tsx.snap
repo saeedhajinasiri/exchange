@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Table Colors color=dark 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+    color="dark"
+  >
+    <thead
+      class="table-header-group"
+    />
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test Table Colors color=grey 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+    color="grey"
+  >
+    <thead
+      class="table-header-group"
+    />
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test Table Colors color=light 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+    color="light"
+  >
+    <thead
+      class="table-header-group"
+    />
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test Table Colors color=primary 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+    color="primary"
+  >
+    <thead
+      class="table-header-group"
+    />
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test Table Colors color=secondary 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+    color="secondary"
+  >
+    <thead
+      class="table-header-group"
+    />
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test Table Colors color=tertiary 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+    color="tertiary"
+  >
+    <thead
+      class="table-header-group"
+    />
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test Table UI Default 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  />
+</DocumentFragment>
+`;
+
+exports[`Test Table UI Test with className prop 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full test-class-name"
+  />
+</DocumentFragment>
+`;

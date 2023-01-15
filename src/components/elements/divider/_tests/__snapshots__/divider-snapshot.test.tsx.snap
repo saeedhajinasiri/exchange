@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Divider Colors color=dark 1`] = `
+<DocumentFragment>
+  <div
+    class="w-full border-t my-10 opacity-30 border-t-grey-dark"
+  />
+</DocumentFragment>
+`;
+
+exports[`Test Divider Colors color=grey 1`] = `
+<DocumentFragment>
+  <div
+    class="w-full border-t my-10 opacity-30 border-t-grey"
+  />
+</DocumentFragment>
+`;
+
+exports[`Test Divider Colors color=light 1`] = `
+<DocumentFragment>
+  <div
+    class="w-full border-t my-10 opacity-30 border-t-grey-light"
+  />
+</DocumentFragment>
+`;
+
+exports[`Test Divider Colors color=primary 1`] = `
+<DocumentFragment>
+  <div
+    class="w-full border-t my-10 opacity-30 border-t-primary\`"
+  />
+</DocumentFragment>
+`;
+
+exports[`Test Divider Colors color=secondary 1`] = `
+<DocumentFragment>
+  <div
+    class="w-full border-t my-10 opacity-30 border-t-secondary"
+  />
+</DocumentFragment>
+`;
+
+exports[`Test Divider Colors color=tertiary 1`] = `
+<DocumentFragment>
+  <div
+    class="w-full border-t my-10 opacity-30 border-t-tertiary"
+  />
+</DocumentFragment>
+`;
+
+exports[`Test Divider UI Default 1`] = `
+<DocumentFragment>
+  <div
+    class="w-full border-t my-10 opacity-30 border-t-grey-light"
+  />
+</DocumentFragment>
+`;

@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Div UI Default 1`] = `
+<DocumentFragment>
+  <div
+    class="flex undefined"
+    data-testid="div-test-id"
+  >
+    children
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test Div UI Test with children prop 1`] = `
+<DocumentFragment>
+  <div
+    class="flex undefined"
+    data-testid="div-test-id"
+  >
+    <p
+      class="text-m-sm sm:text-t-sm md:text-d-sm text-primary text-left font-regular"
+    >
+      children
+    </p>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test Div UI Test with className prop 1`] = `
+<DocumentFragment>
+  <div
+    class="flex test-class-name"
+    data-testid="div-test-id"
+  >
+    children
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test Div UI Test with dangerously set inner html prop 1`] = `
+<DocumentFragment>
+  <div
+    class="flex undefined"
+    data-testid="div-test-id"
+  >
+    {"@test":"test-data"}
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test Div UI Test with dir prop 1`] = `
+<DocumentFragment>
+  <div
+    class="flex undefined"
+    data-testid="div-test-id"
+    dir="test-dir"
+  >
+    children
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test Div UI Test with id prop 1`] = `
+<DocumentFragment>
+  <div
+    class="flex undefined"
+    data-testid="div-test-id"
+    id="test-id"
+  >
+    children
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test Div UI Test with item prop prop 1`] = `
+<DocumentFragment>
+  <div
+    class="flex undefined"
+    data-testid="div-test-id"
+    itemprop="test-item-prop"
+  >
+    children
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test Div UI Test with item scope prop 1`] = `
+<DocumentFragment>
+  <div
+    class="flex undefined"
+    data-testid="div-test-id"
+    itemscope=""
+  >
+    children
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test Div UI Test with item type prop 1`] = `
+<DocumentFragment>
+  <div
+    class="flex undefined"
+    data-testid="div-test-id"
+    itemtype="test-item-type"
+  >
+    children
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test Div UI Test with role prop 1`] = `
+<DocumentFragment>
+  <div
+    class="flex undefined"
+    data-testid="div-test-id"
+    role="test-role"
+  >
+    children
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Test Div UI Test with style prop 1`] = `
+<DocumentFragment>
+  <div
+    class="flex undefined"
+    data-testid="div-test-id"
+  >
+    children
+  </div>
+</DocumentFragment>
+`;

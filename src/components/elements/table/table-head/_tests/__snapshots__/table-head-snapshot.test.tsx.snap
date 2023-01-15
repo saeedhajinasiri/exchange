@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test TableHead UI Default 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <thead
+      class="table-header-group"
+    />
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableHead UI Test with children prop 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <thead
+      class="table-header-group"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-white border-grey-light"
+      />
+    </thead>
+  </table>
+</DocumentFragment>
+`;

@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test TableRow UI Default 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <thead
+      class="table-header-group"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-white border-grey-light"
+      />
+    </thead>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`Test TableRow UI Test with children prop 1`] = `
+<DocumentFragment>
+  <table
+    class="w-full"
+  >
+    <thead
+      class="table-header-group"
+    >
+      <tr
+        class="border-b border-grey-100 border-opacity-20 hover:bg-opacity-75 bg-white border-grey-light"
+      >
+        <td
+          class="px-4 bg-opacity-20 min-w-[125px] h-10"
+        >
+          <p
+            class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+          >
+            children
+          </p>
+        </td>
+      </tr>
+    </thead>
+  </table>
+</DocumentFragment>
+`;

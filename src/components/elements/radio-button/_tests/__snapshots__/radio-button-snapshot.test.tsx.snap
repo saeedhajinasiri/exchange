@@ -1,0 +1,282 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test RadioButton Colors color=dark 1`] = `
+<DocumentFragment>
+  <label
+    class="flex flex-row items-center gap-x-2"
+  >
+    <input
+      class="cursor-pointer h-5 w-5 bg-white accent-grey-dark"
+      name="test"
+      type="radio"
+      value="test"
+    />
+    <p
+      class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+    >
+      test
+    </p>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Test RadioButton Colors color=grey 1`] = `
+<DocumentFragment>
+  <label
+    class="flex flex-row items-center gap-x-2"
+  >
+    <input
+      class="cursor-pointer h-5 w-5 bg-white accent-grey"
+      name="test"
+      type="radio"
+      value="test"
+    />
+    <p
+      class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+    >
+      test
+    </p>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Test RadioButton Colors color=light 1`] = `
+<DocumentFragment>
+  <label
+    class="flex flex-row items-center gap-x-2"
+  >
+    <input
+      class="cursor-pointer h-5 w-5 bg-white accent-grey-light"
+      name="test"
+      type="radio"
+      value="test"
+    />
+    <p
+      class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+    >
+      test
+    </p>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Test RadioButton Colors color=primary 1`] = `
+<DocumentFragment>
+  <label
+    class="flex flex-row items-center gap-x-2"
+  >
+    <input
+      class="cursor-pointer h-5 w-5 bg-white accent-primary"
+      name="test"
+      type="radio"
+      value="test"
+    />
+    <p
+      class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+    >
+      test
+    </p>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Test RadioButton Colors color=secondary 1`] = `
+<DocumentFragment>
+  <label
+    class="flex flex-row items-center gap-x-2"
+  >
+    <input
+      class="cursor-pointer h-5 w-5 bg-white accent-secondary"
+      name="test"
+      type="radio"
+      value="test"
+    />
+    <p
+      class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+    >
+      test
+    </p>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Test RadioButton Colors color=tertiary 1`] = `
+<DocumentFragment>
+  <label
+    class="flex flex-row items-center gap-x-2"
+  >
+    <input
+      class="cursor-pointer h-5 w-5 bg-white accent-tertiary"
+      name="test"
+      type="radio"
+      value="test"
+    />
+    <p
+      class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+    >
+      test
+    </p>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Test RadioButton Disabled disabled=false 1`] = `
+<DocumentFragment>
+  <label
+    class="flex flex-row items-center gap-x-2"
+  >
+    <input
+      class="cursor-pointer h-5 w-5 bg-white accent-primary"
+      name="test"
+      type="radio"
+      value="test"
+    />
+    <p
+      class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+    >
+      test
+    </p>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Test RadioButton Disabled disabled=true 1`] = `
+<DocumentFragment>
+  <label
+    class="flex flex-row items-center gap-x-2"
+  >
+    <input
+      class="cursor-pointer h-5 w-5 bg-white accent-grey"
+      disabled=""
+      name="test"
+      type="radio"
+      value="test"
+    />
+    <p
+      class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+    >
+      test
+    </p>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Test RadioButton Sizes Test with desktop prop 1`] = `
+<DocumentFragment>
+  <label
+    class="flex flex-row items-center gap-x-2"
+  >
+    <input
+      class="cursor-pointer h-5 w-5 bg-white accent-primary"
+      name="test"
+      type="radio"
+      value="test"
+    />
+    <p
+      class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+    >
+      test
+    </p>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Test RadioButton Sizes Test with mobile prop 1`] = `
+<DocumentFragment>
+  <label
+    class="flex flex-row items-center gap-x-2"
+  >
+    <input
+      class="cursor-pointer h-5 w-5 bg-white accent-primary"
+      name="test"
+      type="radio"
+      value="test"
+    />
+    <p
+      class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+    >
+      test
+    </p>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Test RadioButton Sizes Test with tablet prop 1`] = `
+<DocumentFragment>
+  <label
+    class="flex flex-row items-center gap-x-2"
+  >
+    <input
+      class="cursor-pointer h-5 w-5 bg-white accent-primary"
+      name="test"
+      type="radio"
+      value="test"
+    />
+    <p
+      class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+    >
+      test
+    </p>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Test RadioButton UI Default 1`] = `
+<DocumentFragment>
+  <label
+    class="flex flex-row items-center gap-x-2"
+  >
+    <input
+      class="cursor-pointer h-5 w-5 bg-white accent-primary"
+      name="test"
+      type="radio"
+      value="test"
+    />
+    <p
+      class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+    >
+      test
+    </p>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Test RadioButton UI Test with className prop 1`] = `
+<DocumentFragment>
+  <label
+    class="flex flex-row items-center gap-x-2"
+  >
+    <input
+      class="cursor-pointer h-5 w-5 bg-white accent-primary test-class-name"
+      name="test"
+      type="radio"
+      value="test"
+    />
+    <p
+      class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+    >
+      test
+    </p>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Test RadioButton UI Test with value prop 1`] = `
+<DocumentFragment>
+  <label
+    class="flex flex-row items-center gap-x-2"
+  >
+    <input
+      class="cursor-pointer h-5 w-5 bg-white accent-primary"
+      name="test"
+      type="radio"
+      value="test-value"
+    />
+    <p
+      class="text-m-sm sm:text-t-sm md:text-d-sm text-grey text-left font-regular"
+    >
+      test
+    </p>
+  </label>
+</DocumentFragment>
+`;
